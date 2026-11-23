@@ -1,6 +1,15 @@
 # E-commerce Sales Analytics & Business Intelligence
 
 ## Project Overview
+# E-commerce Sales Analytics & BI
+
+🚀 **[Live Interactive Dashboard](https://ecommerce-sales-analytics-utrh7qctraxcw6nqtobnhl.streamlit.app/)**
+
+📊 Explore the live dashboard to interact with sales, profit, customer, regional, category, and discount analytics.
+
+🔗 **[GitHub Repository](https://github.com/iamrahm4n/ecommerce-sales-analytics)**
+
+
 
 An end-to-end retail sales analytics project built using Python, Pandas, SQL, and Streamlit. This project analyzes sales performance, profitability, customer behavior, products, discounts, regional performance, and business trends using the Sample Superstore dataset.
 
